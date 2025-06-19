@@ -6,10 +6,9 @@
 ## links:
 - [Reddit](https://www.reddit.com/r/arch/comments/1lfahw8/my_arch_linux_desktop_on_hyprland/)
 
-## Plugins
+## Packages
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+This is a list of packages for the working dotfile
 
 | Required packages |
 | ------ |
