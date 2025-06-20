@@ -8,22 +8,38 @@
 
 ## Packages
 
-This is a list of packages for the working dotfile
+This is a list of packages for the working dotfiles
 
-| Required packages |
+| Required packages for this dotfiles |
 | ------ |
-| Kitty | 
+| Kitty (terminal) | 
 | zsh (for kitty) |
 | fastfetch (for zsh) |
-| Hyprland | 
-| Hyprpaper | 
+| Hyprland(WM) | 
+| Hyprpaper (for wallpapers) | 
 | Hyprlock (In the hypridle config it is commented out, but you can uncomment it) | 
-| Hypridle |
-| Waybar|
+| Hypridle (for subsequent brightness changes and switching to sleep when idle) |
+| Waybar (bar for desktop) |
+| Brightnessctl (for change the screen brightness) |
 
 | Required packages for Waybar |
 | ------- |
-|Kitty|
-|Rofi|
-|Nemo|
-|Opera (You can replace it with Firefox in the config.)|
+| Kitty |
+| Rofi |
+| Nemo |
+| Opera (You can replace it with Firefox in the config.) |
+
+## Keybinds
+
+| Keys | Action |
+| ----- | :-----: |
+| Shift + Alt | Changing the keyboard layout from English to Russian and vice versa (you can change it if you want) |
+| Super + T | Opening the kitty terminal |
+| Super + Q | Opening the rofi application menu |
+| Super + C | Closing a window |
+| Super + V | Changing the window view (from tiling to window) |
+| Super + Left Button Mouse | Window movement |
+| Super + Right Button Mouse | Resizing a Window |
+| Super + N | Decrease screen brightness (via brightnessctl) |
+| Super + M | Increase screen brightness (via brightnessctl) |
+
