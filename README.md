@@ -1,7 +1,22 @@
 # DOTFILES MY ARCH DESKTOP
 
 ## MY DESKTOP:
-![N|Solid](https://raw.githubusercontent.com/gachakoreika/dotfiles_mydesktop/refs/heads/main/2025-06-19-160144_hyprshot.png)
+One desktop:
+
+![N|Solid](https://raw.githubusercontent.com/gachakoreika/dotfiles_mydesktop/refs/heads/main/2025-06-20-221249_hyprshot.png)
+
+Two desktop:
+
+![N|Solid](https://raw.githubusercontent.com/gachakoreika/dotfiles_mydesktop/refs/heads/main/2025-06-20-221310_hyprshot.png)
+
+Three desktop:
+
+![N|Solid](https://raw.githubusercontent.com/gachakoreika/dotfiles_mydesktop/refs/heads/main/2025-06-20-221321_hyprshot.png)
+
+Four desktop:
+
+![N|Solid](https://raw.githubusercontent.com/gachakoreika/dotfiles_mydesktop/refs/heads/main/2025-06-20-221328_hyprshot.png)
+
 
 ## links:
 - [Reddit](https://www.reddit.com/r/arch/comments/1lfahw8/my_arch_linux_desktop_on_hyprland/)
