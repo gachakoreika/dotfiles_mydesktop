@@ -20,6 +20,7 @@ Four desktop:
 
 ## links:
 - [Reddit](https://www.reddit.com/r/arch/comments/1lfahw8/my_arch_linux_desktop_on_hyprland/)
+- [Reddit 2](https://www.reddit.com/r/unixporn/comments/1lgdpvn/hyprland_my_arch_linux_desktop_on_hyprland/)
 
 ## Packages
 
